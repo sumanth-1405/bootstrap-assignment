@@ -1,0 +1,19 @@
+li{
+    text-transform: capitalize;
+    font-size: 10vw;
+}
+.card-header{
+    text-align:center;
+    text-transform: uppercase;
+}
+
+a{
+    color: antiquewhite;
+}
+footer h1{
+    font-size: 2vw;
+    color:antiquewhite;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-bottom: 2vw;
+}
